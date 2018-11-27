@@ -1,3 +1,8 @@
+"""
+Title:Data clean up of NRO and cables
+Author:Lekun ZHUANG
+Github:https://github.com/LekunZHUANG
+"""
 import csv
 
 #提取csv文件中的某一特定列  Columnname:csv中的列名  Filename:csv文件名
